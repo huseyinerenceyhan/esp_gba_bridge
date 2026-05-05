@@ -1,0 +1,1 @@
+sensor.o: sensor.s
